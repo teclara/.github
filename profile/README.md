@@ -22,18 +22,18 @@ Our mission is to **keep businesses secure, efficient, and always operational** 
 
 ## 🛠 What You'll Find Here  
 
-### **🔹 Open-Source Tools & Automation Scripts**  
+### **Open-Source Tools & Automation Scripts**  
 - IT security automation scripts  
 - Endpoint protection and monitoring tools  
 - Custom PowerShell and Python scripts for IT management  
 - Workflow automation templates  
 
-### **🔹 IT Documentation & Runbooks**  
+### **IT Documentation & Runbooks**  
 - Troubleshooting guides  
 - Security hardening best practices  
 - Infrastructure automation blueprints  
 
-### **🔹 SuperOps & RMM Integrations**  
+### **SuperOps & RMM Integrations**  
 - Custom integrations for **Teclara SuperOps**, our PSA/RMM platform  
 - API scripts for IT operations automation  
 
@@ -47,7 +47,7 @@ We prioritize **data security and compliance** in all our projects. Our reposito
 - **Zero Trust Security Models**  
 - **Secure IT Infrastructure Deployments**  
 
-For inquiries about our **enterprise security solutions**, please visit our [official website](https://teclara.com) or contact us directly.
+For inquiries about our **enterprise security solutions**, please visit our [official website](https://teclara.tech) or contact us directly.
 
 ---
 
@@ -62,10 +62,10 @@ We welcome collaboration from the cybersecurity and IT community! If you're inte
 
 ## 📞 Contact Us  
 
-📧 **Email:** [support@teclara.com](mailto:support@teclara.com)  
-🌐 **Website:** [https://teclara.com](https://teclara.com)  
+📧 **Email:** [hello@teclara.tech](mailto:hello@teclara.tech)  
+🌐 **Website:** [https://teclara.tech](https://teclara.tech)  
 🔗 **LinkedIn:** [Teclara Technologies](https://www.linkedin.com/company/teclara-technologies)  
 
 ---
 
-### **🔹 Teclara Technologies – Secure IT. Proactive Support. Strategic Growth.**
+### **Teclara Technologies – Secure IT. Proactive Support. Strategic Growth.**
