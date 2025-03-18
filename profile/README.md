@@ -64,7 +64,7 @@ We welcome collaboration from the cybersecurity and IT community! If you're inte
 
 📧 **Email:** [hello@teclara.tech](mailto:hello@teclara.tech)  
 🌐 **Website:** [https://teclara.tech](https://teclara.tech)  
-🔗 **LinkedIn:** [Teclara Technologies](https://www.linkedin.com/company/teclara-technologies)  
+🔗 **LinkedIn:** [Teclara Technologies](https://www.linkedin.com/company/teclara)  
 
 ---
 
