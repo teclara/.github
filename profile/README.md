@@ -1,71 +1,70 @@
 # Teclara Technologies Inc.
 
-**Reliable, Secure, and Proactive IT Solutions for Professional Services Firms**  
+**All-Inclusive IT. Zero Surprises.**
 
-Welcome to **Teclara Technologies' GitHub** – a hub for our **open-source tools, automation scripts, and cybersecurity innovations** designed to help businesses optimize their IT infrastructure, enhance security, and maintain operational efficiency.  
+Full-stack managed IT and cybersecurity for businesses on **Microsoft 365** and **Google Workspace**. One predictable monthly investment covers everything — no hidden fees, no upsells. When we upgrade our security stack, everyone benefits automatically.
 
----
-
-## 🚀 About Teclara  
-
-Teclara Technologies is a **managed IT services provider (MSP)** specializing in:  
-- **Cybersecurity & Risk Management**  
-- **Managed IT Services & Infrastructure Optimization**  
-- **Strategic IT Consulting & Digital Transformation**  
-- **Automation & IT Operations (PSA/RMM Solutions)**  
-
-We partner with **professional services firms** – including **law firms, accounting firms, financial services, consulting firms, architecture firms, real estate agencies, and legal tech companies** – to provide **enterprise-grade cybersecurity, IT automation, and strategic technology consulting**.  
-
-Our mission is to **keep businesses secure, efficient, and always operational** by integrating **best-in-class IT management practices** with **cutting-edge cybersecurity measures**.
+**Microsoft Cloud Partner** · **Google Cloud Partner** · **SOC 2 Compliant Tools**
 
 ---
 
-## 🛠 What You'll Find Here  
+## About Teclara
 
-### **Open-Source Tools & Automation Scripts**  
-- IT security automation scripts  
-- Endpoint protection and monitoring tools  
-- Custom PowerShell and Python scripts for IT management  
-- Workflow automation templates  
+We're not a generalist MSP. We specialize in **two cloud platforms — Microsoft 365 and Google Workspace** — and deliver them with enterprise-grade security and platform expertise. Based in **Oakville, Ontario**, we serve businesses across **North America**.
 
-### **IT Documentation & Runbooks**  
-- Troubleshooting guides  
-- Security hardening best practices  
-- Infrastructure automation blueprints  
-
-### **SuperOps & RMM Integrations**  
-- Custom integrations for **Teclara SuperOps**, our PSA/RMM platform  
-- API scripts for IT operations automation  
+**Industries we serve:** Legal Services · Accounting & Financial Services · Engineering & Architecture · Professional Services · Commerce · Startups
 
 ---
 
-## 🔒 Our Focus on Cybersecurity  
+## Our Services
 
-We prioritize **data security and compliance** in all our projects. Our repositories reflect our commitment to:  
-- **Proactive Cyber Threat Detection**  
-- **Automated Risk Assessments**  
-- **Zero Trust Security Models**  
-- **Secure IT Infrastructure Deployments**  
+| Service | What's Included |
+|---------|----------------|
+| **Full Managed IT** | Complete IT department — unlimited help desk, 24/7 SOC, platform optimization, vCIO strategy, backup & disaster recovery, all security tools included |
+| **Co-Managed IT** | Backend support for your existing IT team — 24/7 security monitoring, infrastructure management, platform management, after-hours emergency support |
+| **Security-Only** | Enterprise-grade protection for self-managed IT — 24/7 SOC with MDR, identity threat detection, email security, cloud backup, patch management |
+| **vCIO Advisory** | Strategic technology guidance — quarterly business reviews, technology roadmaps, compliance strategy, budget planning |
 
-For inquiries about our **enterprise security solutions**, please visit our [official website](https://teclara.tech) or contact us directly.
-
----
-
-## 📢 Contributions & Community  
-
-We welcome collaboration from the cybersecurity and IT community! If you're interested in contributing, please:  
-1. Fork a repository and submit a pull request  
-2. Report security vulnerabilities through responsible disclosure  
-3. Engage with us on discussions related to IT security and automation  
+All plans include **all-inclusive pricing** with no hidden setup fees, hourly billing, or surprise charges.
 
 ---
 
-## 📞 Contact Us  
+## What You'll Find Here
 
-📧 **Email:** [hello@teclara.tech](mailto:hello@teclara.tech)  
-🌐 **Website:** [https://teclara.tech](https://teclara.tech)  
-🔗 **LinkedIn:** [Teclara Technologies](https://www.linkedin.com/company/teclara)  
+- IT security automation scripts and tools
+- Platform optimization resources for Microsoft 365 and Google Workspace
+- Security hardening guides and runbooks
+- Infrastructure automation blueprints
+- Custom integrations and API scripts for IT operations
 
 ---
 
-### **Teclara Technologies – Secure IT. Proactive Support. Strategic Growth.**
+## Cybersecurity Focus
+
+Every service we deliver is built on a **cybersecurity-first foundation**:
+
+- **24/7 SOC Monitoring** with Managed Detection & Response
+- **Zero Trust Security Models** and Conditional Access policies
+- **Identity Threat Detection** for Microsoft 365 and Google Workspace
+- **Ransomware prevention and response** frameworks
+- **Compliance alignment** — SOX, HIPAA, PIPEDA, cyber insurance requirements
+
+---
+
+## Contributions & Community
+
+We welcome collaboration from the cybersecurity and IT community. If you're interested in contributing:
+
+1. Fork a repository and submit a pull request
+2. Report security vulnerabilities through responsible disclosure
+3. Engage with us on discussions related to IT security and automation
+
+---
+
+## Contact Us
+
+**Phone:** +1 (365) 364-4323
+**Email:** [hello@teclara.tech](mailto:hello@teclara.tech)
+**Website:** [teclara.tech](https://teclara.tech)
+**LinkedIn:** [Teclara Technologies](https://www.linkedin.com/company/teclara/)
+**Facebook:** [Teclara Technologies](https://www.facebook.com/profile.php?id=61574817958573)
