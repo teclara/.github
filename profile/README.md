@@ -1,70 +1,56 @@
 # Teclara Technologies Inc.
 
-**All-Inclusive IT. Zero Surprises.**
+**Cybersecurity for Canadian small and mid-sized businesses.**
 
-Full-stack managed IT and cybersecurity for businesses on **Microsoft 365** and **Google Workspace**. One predictable monthly investment covers everything — no hidden fees, no upsells. When we upgrade our security stack, everyone benefits automatically.
+Teclara secures Microsoft 365 and Google Workspace environments for professional services firms. Endpoint protection on every device, email and fraud protection, immutable cloud backup, patching and vulnerability management, and login and identity threat monitoring, all watched by a 24/7 human-led security operations team. Based in Oakville, Ontario, serving the Greater Toronto Area and clients across Canada.
 
-**Microsoft Cloud Partner** · **Google Cloud Partner** · **SOC 2 Compliant Tools**
+**Microsoft Cloud Partner** · **Google Cloud Partner** · Founder-led by Wadhah Hussain, 20+ years of Big Four and enterprise experience
 
 ---
 
 ## About Teclara
 
-We're not a generalist MSP. We specialize in **two cloud platforms — Microsoft 365 and Google Workspace** — and deliver them with enterprise-grade security and platform expertise. Based in **Oakville, Ontario**, we serve businesses across **North America**.
+Teclara is a cybersecurity firm, not a generalist MSP. The work starts with security and stays there. We run a complete security operation for firms on two cloud platforms, Microsoft 365 and Google Workspace, and we build every other service on top of that foundation. We do not run IT we have not secured.
 
-**Industries we serve:** Legal Services · Accounting & Financial Services · Engineering & Architecture · Professional Services · Commerce · Startups
-
----
-
-## Our Services
-
-| Service | What's Included |
-|---------|----------------|
-| **Full Managed IT** | Complete IT department — unlimited help desk, 24/7 SOC, platform optimization, vCIO strategy, backup & disaster recovery, all security tools included |
-| **Co-Managed IT** | Backend support for your existing IT team — 24/7 security monitoring, infrastructure management, platform management, after-hours emergency support |
-| **Security-Only** | Enterprise-grade protection for self-managed IT — 24/7 SOC with MDR, identity threat detection, email security, cloud backup, patch management |
-| **vCIO Advisory** | Strategic technology guidance — quarterly business reviews, technology roadmaps, compliance strategy, budget planning |
-
-All plans include **all-inclusive pricing** with no hidden setup fees, hourly billing, or surprise charges.
+**Who we work with:** Consulting firms · Law firms · Accounting firms · Architecture firms · Financial services · Startups
 
 ---
 
-## What You'll Find Here
+## What We Do
 
-- IT security automation scripts and tools
-- Platform optimization resources for Microsoft 365 and Google Workspace
-- Security hardening guides and runbooks
-- Infrastructure automation blueprints
-- Custom integrations and API scripts for IT operations
+**Managed Security & Compliance** is the flagship. A complete security operation for small and mid-sized firms: endpoint protection on every device, backup for Microsoft 365 or Google Workspace, email and fraud protection, patching and vulnerability management, tenant management, login and identity threat monitoring, and security awareness training, all watched by a 24/7 human-led security operations team. Optional modules extend it, including premium SIEM retention, managed zero trust network access, DMARC email spoofing protection, leaked credential monitoring, extended SaaS posture monitoring, and ongoing AI usage monitoring.
 
----
+**Managed IT** is full delegation of day-to-day IT, built on the Managed Security & Compliance program. Helpdesk, device lifecycle, staff onboarding and offboarding, Microsoft 365 or Google Workspace administration, licensing and vendor management, and IT planning, with the complete security operation always included.
 
-## Cybersecurity Focus
+**Private AI** is a bespoke managed service. Teclara designs, builds, and manages private AI systems on dedicated hardware or a private cloud, running the firm's own models behind a controlled interface. Drafting, summarization, and research over confidential files, access tied to existing permissions, and full audit logging. No client data trains public models.
 
-Every service we deliver is built on a **cybersecurity-first foundation**:
-
-- **24/7 SOC Monitoring** with Managed Detection & Response
-- **Zero Trust Security Models** and Conditional Access policies
-- **Identity Threat Detection** for Microsoft 365 and Google Workspace
-- **Ransomware prevention and response** frameworks
-- **Compliance alignment** — SOX, HIPAA, PIPEDA, cyber insurance requirements
+**Fixed-scope engagements** are reviews, setups, and implementation packages priced and bounded up front. Microsoft 365 and Google Workspace security and governance reviews, business setups and tenant cleanups, domain, DNS, and email security reviews, policy implementation, AI governance readiness, shadow AI discovery, and Copilot and Gemini security hardening.
 
 ---
 
-## Contributions & Community
+## Security Foundation
 
-We welcome collaboration from the cybersecurity and IT community. If you're interested in contributing:
+Every service is built on a security-first foundation:
 
-1. Fork a repository and submit a pull request
-2. Report security vulnerabilities through responsible disclosure
-3. Engage with us on discussions related to IT security and automation
+- 24/7 human-led security operations with managed detection and response
+- Zero trust access and conditional sign-in policies
+- Identity and login threat monitoring for Microsoft 365 and Google Workspace
+- Immutable cloud backup and ransomware recovery planning
+- Compliance readiness for PIPEDA, cyber insurance requirements, and client security questionnaires
+
+---
+
+## Platforms We Secure
+
+- **Microsoft 365 and Azure:** tenant cleanup and governance, safer sign-ins and MFA, Intune device management, Microsoft Defender, backup, SharePoint and Teams structure, and Copilot governance
+- **Google Workspace and Google Cloud:** Workspace governance, shared drives, admin roles, Chrome Enterprise policies, Cloud Identity and zero trust access, backup, and Gemini governance
 
 ---
 
 ## Contact Us
 
-**Phone:** +1 (365) 364-4323
+**Phone:** +1 (365) 996-5856
 **Email:** [hello@teclara.tech](mailto:hello@teclara.tech)
 **Website:** [teclara.tech](https://teclara.tech)
 **LinkedIn:** [Teclara Technologies](https://www.linkedin.com/company/teclara/)
-**Facebook:** [Teclara Technologies](https://www.facebook.com/profile.php?id=61574817958573)
+**Facebook:** [Teclara Technologies](https://www.facebook.com/TeclaraTech)
